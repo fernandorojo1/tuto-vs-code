@@ -7,4 +7,5 @@ Pero no son ellos los que me han dado la fugaz visión de esos dones prohibidos,
 Esa visión, como toda temible visión de la verdad, surgió de una unión casual de elementos diversos; en este caso, el artículo de un viejo periódico y las notas de un profesor ya fallecido.
 Espero que ningún otro logre llevar a cabo esta unión; yo, por cierto, si vivo, no añadiré voluntariamente un sólo eslabón a tan espantosa cadena. 
 Creo, por otra parte, que el profesor había decidido, también, no revelar lo que sabía, y que si no hubiese muerto repentinamente, hubiera destruido sus notas
+    var = ("este es un archivo de prueva ")
     
